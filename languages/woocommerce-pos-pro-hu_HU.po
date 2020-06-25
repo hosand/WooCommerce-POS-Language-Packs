@@ -7,8 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/kilbot/WooCommerce-POS-Language-"
 "Packs/issues\n"
 "POT-Creation-Date: 2017-05-31 11:35:22+00:00\n"
-"PO-Revision-Date: 2015-06-10 14:19+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2020-06-25 12:20+1200\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/kilbot/"
 "woocommerce-pos/language/hu_HU/)\n"
 "Language: hu_HU\n"
@@ -16,7 +15,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: grunt-wp-i18n1.0.0\n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: \n"
 
 #: includes/class-wc-pos-pro-ajax.php:86
 msgid "Invalid security nonce"
@@ -50,7 +50,7 @@ msgstr ""
 
 #: includes/class-wc-pos-pro-stores.php:62
 msgid "New Store"
-msgstr ""
+msgstr "Új Bolt"
 
 #: includes/class-wc-pos-pro-stores.php:63
 msgid "Edit Store"
