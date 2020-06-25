@@ -9,7 +9,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: https://github.com/kilbot/WooCommerce-POS-Language-"
 "Packs/issues\n"
 "POT-Creation-Date: 2017-06-05 10:02:27+00:00\n"
-"PO-Revision-Date: 2020-06-25 12:05+1200\n"
+"PO-Revision-Date: 2020-06-25 12:18+1200\n"
 "Last-Translator: Paul Kilmurray <paul@kilbot.com.au>\n"
 "Language-Team: Hungarian (Hungary) (http://www.transifex.com/kilbot/"
 "woocommerce-pos/language/hu_HU/)\n"
@@ -232,11 +232,11 @@ msgstr "Vonalkód leolvasása"
 
 #: includes/views/print/tmpl-receipt.php:115
 msgid "Billing Address"
-msgstr "számlázási cím"
+msgstr "Számlázási cím"
 
 #: includes/views/print/tmpl-receipt.php:118
 msgid "Shipping Address"
-msgstr "szállítási cím"
+msgstr "Postázási cím"
 
 #: includes/views/print/tmpl-receipt.php:123
 msgid "Order Number"
@@ -288,9 +288,9 @@ msgid ""
 "Requires <a href=\"http://wordpress.org/plugins/woocommerce/\">WooCommerce</"
 "a>."
 msgstr ""
-"Egy egyszerű front-end meghozatalának WooCommerce megrendeléseket a Point of "
-"Sale. Igényel <a href=\"http://wordpress.org/plugins/woocommerce/"
-"\">WooCommerce.</a>"
+"Egy egyszerű front-end figyelembe WooCommerce megrendelések a Point of Sale. "
+"WooCommerce <a href=\"http://wordpress.org/plugins/woocommerce/\">szükséges."
+"</a>"
 
 #: includes/class-wc-pos-i18n.php:312
 msgctxt "system status: browser capabilities"
@@ -322,7 +322,7 @@ msgstr "Egyértelmű"
 #: includes/class-wc-pos-i18n.php:366
 msgctxt "restore default settings"
 msgid "Restore defaults"
-msgstr "Restore defaults"
+msgstr "Alapértelmezés visszaállitása"
 
 #: includes/class-wc-pos-i18n.php:367
 msgctxt "Numpad return key"
@@ -354,4 +354,4 @@ msgstr "Mennyiség"
 #: includes/views/print/tmpl-receipt.php:225
 msgctxt "abbreviation for includes (tax)"
 msgid "incl."
-msgstr "incl."
+msgstr "tartalmazza"
